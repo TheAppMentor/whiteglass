@@ -42,7 +42,7 @@ comments: false
 # Plugins
 plugins:
   - jekyll-archives
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
 
 # Build settings
